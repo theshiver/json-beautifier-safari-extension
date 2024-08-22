@@ -1,7 +1,3 @@
-Elbette! İşte Safari JSON Beautifier uzantısı için İngilizce olarak hazırlanmış bir README dosyası şablonu:
-
----
-
 # Safari JSON Beautifier
 
 A JSON Beautifier extension for Safari that helps you make your JSON data more readable and well-formatted.
